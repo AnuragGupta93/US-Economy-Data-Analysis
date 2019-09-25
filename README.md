@@ -5,10 +5,9 @@
 
 * [Python](https://www.python.org/downloads/release/python-360/)
 * [Numpy](https://pypi.org/project/numpy/)
-* [Pandads](https://pandas.pydata.org/getpandas.html)
+* [Pandas](https://pandas.pydata.org/getpandas.html)
 
-### Project Flow:
-#### Description
+### Description:
 In this project, I am examining how changes in GDP impact the unemployment rate using US Economy Data with the help of Python, Numpy and Pandas.
 
 * Importing Libraries
